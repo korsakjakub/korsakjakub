@@ -1,6 +1,5 @@
-### Hi 👋
+### hi
 
-- 🔭 I work as a devops engineer at Alten
-- [DONE]🌱 currently studying theoretical physics at the [University of Warsaw](https://en.uw.edu.pl/)
-- [DONE] 🪄 also doing my master's thesis on quantum simulators and actively learning the Go language
-- ⚛️ check out [Central spin quantum simulator](https://github.com/korsakjakub/cs_q_sim.git)
+they pay me to do platform engineering and devops things. in free time i do some programming, maths and physics.
+
+- check out [Central spin quantum simulator](https://github.com/korsakjakub/cs_q_sim.git)
